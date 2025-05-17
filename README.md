@@ -1,2 +1,2 @@
 # learn-git
-git learning
+for me to learn how to use Github
